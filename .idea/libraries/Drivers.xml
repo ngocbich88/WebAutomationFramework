@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Drivers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Drivers/geckodriver-v0.26.0-win64.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Drivers/chromedriver_win32.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Drivers/geckodriver-v0.26.0-win32.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
