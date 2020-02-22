@@ -5,6 +5,12 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class Config {
+
+	/**
+	 * Get constant/default values from Config.properties file
+	 * @param key
+	 * @return
+	 */
 	public static String getConfig(String key) {
 		 try {
 	         Properties prop = new Properties();
@@ -14,6 +20,5 @@ public class Config {
 	         ex.printStackTrace();
 	     }
 		return null;
-
 	}
 }

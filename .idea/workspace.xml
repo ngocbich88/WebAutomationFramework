@@ -1,7 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0513f62-22cc-4fc9-8065-4132005f6e94" name="Default Changelist" comment="" />
+    <list default="true" id="a0513f62-22cc-4fc9-8065-4132005f6e94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_06.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_csv_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_uncommons_reportng_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_dep_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForInterview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/libs/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/objects/ApiObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/objects/SampleObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/objects/SignUpObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ApiPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Manual.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Selenium.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataProvider/ApiData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataProvider/SignupData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestApi/TestApiBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestApi/TestCreateApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestApi/TestDeleteApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestApi/TestEditApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestApi/TestSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestLogin/TestLoginBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSignUp/TestSignUpFailures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/Config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver_win32.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/geckodriver-v0.26.0-win32.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/geckodriver-v0.26.0-win64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POMExModular.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuites/Regression Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuites/Sanity Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuites/Smoke Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuites/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/LibBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libs/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libs/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libs/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libs/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objects/HomeObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/HomeObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objects/LoginObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/LoginObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/reportng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/reportng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/sorttable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suites.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-tests.TestCase01_SampleLogin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-tests.TestCase02.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-tests.TestCase1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/Default test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/Test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/tests.TestCase01_SampleLogin_results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +153,32 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Vak0RoHxZDturapWTu8yxFUU9v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,14 +186,178 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\Ngoc\Demos\POMExModular_GIT\POMExModular_GIT\src\main\resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\Desktop\Ngoc\Demos\POMExModular\src\test\java" />
       <recent name="C:\Users\DELL\Desktop\Ngoc\Demos\POMExModular\src\test" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TestApi" />
+      <recent name="objects" />
+      <recent name="pages" />
+      <recent name="TestLogin" />
+      <recent name="TestData" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSample">
+    <configuration name="TestSample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.TestSample" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSample.sample (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.TestSample" />
+      <option name="METHOD_NAME" value="sample" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSample.sample (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.TestSample" />
+      <option name="METHOD_NAME" value="sample" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSample.sample (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.TestSample" />
+      <option name="METHOD_NAME" value="sample" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSample.sample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.TestSample" />
+      <option name="METHOD_NAME" value="sample" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSample" />
+      <item itemvalue="TestNG.TestSample.sample" />
+      <item itemvalue="TestNG.TestSample.sample (3)" />
+      <item itemvalue="TestNG.TestSample.sample (4)" />
+      <item itemvalue="TestNG.TestSample.sample (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSample" />
+        <item itemvalue="TestNG.TestSample.sample" />
+        <item itemvalue="TestNG.TestSample.sample (1)" />
+        <item itemvalue="TestNG.TestSample.sample (4)" />
+        <item itemvalue="TestNG.TestSample.sample (3)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,25 +385,162 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578641106645">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1578641106645" />
+    <state x="92" y="92" width="1182" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579489847145">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.768@0.0.1366.768" timestamp="1579489847145" />
+    <state x="488" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1577522609293">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1577522609293" />
+    <state x="74" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578969073397">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="74" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1578969073397" />
+    <state x="413" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578969035619">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1578969035619" />
+    <state x="434" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578654121502">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="434" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1578654121502" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1577498478801">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1577498478801" />
+    <state width="1322" height="270" key="GridCell.Tab.0.bottom" timestamp="1580221677763">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="270" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580221677763" />
+    <state width="1322" height="270" key="GridCell.Tab.0.center" timestamp="1580221677763">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="270" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580221677763" />
+    <state width="1322" height="270" key="GridCell.Tab.0.left" timestamp="1580221677763">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="270" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580221677763" />
+    <state width="1322" height="270" key="GridCell.Tab.0.right" timestamp="1580221677763">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="270" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580221677763" />
+    <state width="1322" height="270" key="GridCell.Tab.1.bottom" timestamp="1580221677763">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="270" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580221677763" />
+    <state width="1322" height="270" key="GridCell.Tab.1.center" timestamp="1580221677763">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="270" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1580221677763" />
+    <state width="1322" height="270" key="GridCell.Tab.1.left" timestamp="1580221677763">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="270" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1580221677763" />
+    <state width="1322" height="270" key="GridCell.Tab.1.right" timestamp="1580221677763">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="270" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1580221677763" />
+    <state x="213" y="43" key="Maven.ArtifactSearchDialog" timestamp="1578642372470">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="213" y="43" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1578642372470" />
     <state x="350" y="88" width="667" height="591" key="NewModule_or_Project.wizard" timestamp="1577498495604">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="350" y="88" width="667" height="591" key="NewModule_or_Project.wizard/0.0.1366.768@0.0.1366.768" timestamp="1577498495604" />
-    <state x="186" y="29" key="SettingsEditor" timestamp="1577499137347">
+    <state x="375" y="99" key="RollbackChangesDialog" timestamp="1579660195106">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577499137347" />
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1577498385104">
+    <state x="375" y="99" key="RollbackChangesDialog/0.0.1366.768@0.0.1366.768" timestamp="1579660195106" />
+    <state x="186" y="29" key="SettingsEditor" timestamp="1577517967116">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1577498385104" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577498855936">
+    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577517967116" />
+    <state x="499" y="166" key="chooseDestDirectoryDialog" timestamp="1577518215747">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1577498855936" />
+    <state x="499" y="166" key="chooseDestDirectoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1577518215747" />
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1580267251993">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1580267251993" />
+    <state x="224" y="5" width="908" height="517" key="dock-window-1" timestamp="1580111672350">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="224" y="5" width="908" height="517" key="dock-window-1/0.0.1366.768@0.0.1366.768" timestamp="1580111672350" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1579489728185">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1579489728185" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579660230369">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1579660230369" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/Test_vnexpress.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/Test_vnexpress.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/SignUpPage.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/libs/Common.java</url>
+          <line>359</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="arrResult" />
+        <watch expression="colSize.length==0" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+        <watch expression="j" language="JAVA" />
+        <watch expression="cell.getAttribute(&quot;innerText&quot;)" language="JAVA" />
+        <watch expression="cell.getText()" language="JAVA" />
+        <watch expression="arrResult[i][j]" language="JAVA" />
+        <watch expression="cells.get(0).getText()" language="JAVA" />
+        <watch expression="cells.get(1).getText()" language="JAVA" />
+        <watch expression="cells.get(2).getText()" language="JAVA" />
+        <watch expression="cells.get(3).getText()" language="JAVA" />
+        <watch expression="cells.get(4).getText()" language="JAVA" />
+        <watch expression="cells.get(5).getText()" language="JAVA" />
+        <watch expression="cells.get(6).getText()" language="JAVA" />
+        <watch expression="cells.get(7).getText()" language="JAVA" />
+        <watch expression="cells.get(8).getText()" language="JAVA" />
+        <watch expression="cells.get(9).getText()" language="JAVA" />
+        <watch expression="cells.get(10).getText()" language="JAVA" />
+        <watch expression="cells.get(11).getText()" language="JAVA" />
+        <watch expression="cells.get(2).getText()" language="JAVA" />
+        <watch expression="cells.get(2).getText()" language="JAVA" />
+        <watch expression="cells.get(2).getText()" language="JAVA" />
+        <watch expression="rowNum" />
+        <watch expression="colNum" />
+        <watch expression="k" />
+        <watch expression="cells.size()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NgocTest$TestCreateApi.ic" NAME="TestCreateApi Coverage Results" MODIFIED="1579319118606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>TestApi.*</FILTER>
+    </SUITE>
   </component>
 </project>
